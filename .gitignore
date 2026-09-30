@@ -1,0 +1,11 @@
+# Secrets - never upload these
+.env
+
+# Personal and company files - never upload these
+*.xlsx
+document.pdf
+
+# Python and Mac clutter
+__pycache__/
+*.pyc
+.DS_Store
